@@ -1,0 +1,18 @@
+This repository contains hardware, software, and documentation components licensed individually under a multi-licensing model:
+
+1. HARDWARE
+All hardware design files (schematics, PCB layouts, CAD, and 3D files) are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0).
+The full terms and conditions can be viewed at: 
+https://spdx.org
+
+2. SOFTWARE AND FIRMWARE
+All source code and firmware are licensed under the GNU General Public License v3.0 (GPL-3.0).
+The full terms and conditions can be viewed at:
+https://spdx.org
+
+3. DOCUMENTAION
+All manuals, guides, visual schematics, and text documentation are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0).
+The full terms and conditions can be viewed at:
+https://creativecommons.org
+
+By using, modifying, or distributing this project, you agree to abide by the terms of these respective licenses.

@@ -11,7 +11,7 @@
 		(company "Bernardo Xavier")
 	)
 	(lib_symbols
-		(symbol "Connector:USB_C_Receptacle_USB2.0_14P"
+		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
 			(pin_names
 				(offset 1.016)
 			)
@@ -20,7 +20,7 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J3"
+			(property "Reference" "J4"
 				(at 0 22.86 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -30,7 +30,7 @@
 					)
 				)
 			)
-			(property "Value" "USB_C_Receptacle_USB2.0_14P"
+			(property "Value" "USB_C_Receptacle_USB2.0_16P"
 				(at 0 20.32 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -62,7 +62,7 @@
 					)
 				)
 			)
-			(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -95,7 +95,7 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_14P_0_0"
+			(symbol "USB_C_Receptacle_USB2.0_16P_0_0"
 				(rectangle
 					(start 2.286 -17.78)
 					(end 2.794 -16.764)
@@ -108,8 +108,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 9.906)
-					(end 9.144 10.414)
+					(start 9.144 -12.446)
+					(end 10.16 -12.954)
 					(stroke
 						(width 0)
 						(type default)
@@ -119,8 +119,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 4.826)
-					(end 9.144 5.334)
+					(start 10.16 15.494)
+					(end 9.144 14.986)
 					(stroke
 						(width 0)
 						(type default)
@@ -130,8 +130,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 2.286)
-					(end 9.144 2.794)
+					(start 10.16 10.414)
+					(end 9.144 9.906)
 					(stroke
 						(width 0)
 						(type default)
@@ -141,8 +141,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 -0.254)
-					(end 9.144 0.254)
+					(start 10.16 7.874)
+					(end 9.144 7.366)
 					(stroke
 						(width 0)
 						(type default)
@@ -152,8 +152,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 -2.794)
-					(end 9.144 -2.286)
+					(start 10.16 2.794)
+					(end 9.144 2.286)
 					(stroke
 						(width 0)
 						(type default)
@@ -163,8 +163,8 @@
 					)
 				)
 				(rectangle
-					(start 10.16 -7.874)
-					(end 9.144 -7.366)
+					(start 10.16 0.254)
+					(end 9.144 -0.254)
 					(stroke
 						(width 0)
 						(type default)
@@ -174,8 +174,30 @@
 					)
 				)
 				(rectangle
-					(start 10.16 -10.414)
-					(end 9.144 -9.906)
+					(start 10.16 -2.286)
+					(end 9.144 -2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -4.826)
+					(end 9.144 -5.334)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -9.906)
+					(end 9.144 -10.414)
 					(stroke
 						(width 0)
 						(type default)
@@ -185,9 +207,9 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_14P_0_1"
+			(symbol "USB_C_Receptacle_USB2.0_16P_0_1"
 				(rectangle
-					(start -10.16 15.24)
+					(start -10.16 17.78)
 					(end 10.16 -17.78)
 					(stroke
 						(width 0.254)
@@ -386,7 +408,7 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_14P_1_1"
+			(symbol "USB_C_Receptacle_USB2.0_16P_1_1"
 				(pin passive line
 					(at 2.54 -22.86 90)
 					(length 5.08)
@@ -406,7 +428,7 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 10.16 180)
+					(at 15.24 15.24 180)
 					(length 5.08)
 					(name "VBUS"
 						(effects
@@ -442,7 +464,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 2.54 180)
+					(at 15.24 -2.54 180)
 					(length 5.08)
 					(name "D+"
 						(effects
@@ -460,7 +482,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 -2.54 180)
+					(at 15.24 2.54 180)
 					(length 5.08)
 					(name "D-"
 						(effects
@@ -477,8 +499,26 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin bidirectional line
 					(at 15.24 10.16 180)
+					(length 5.08)
+					(name "SBU1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 15.24 180)
 					(length 5.08)
 					(hide yes)
 					(name "VBUS"
@@ -535,7 +575,7 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 10.16 180)
+					(at 15.24 15.24 180)
 					(length 5.08)
 					(hide yes)
 					(name "VBUS"
@@ -554,7 +594,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 -7.62 180)
+					(at 15.24 -12.7 180)
 					(length 5.08)
 					(name "CC2"
 						(effects
@@ -572,7 +612,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 15.24 5.08 180)
+					(at 15.24 -5.08 180)
 					(length 5.08)
 					(name "D+"
 						(effects
@@ -607,8 +647,26 @@
 						)
 					)
 				)
+				(pin bidirectional line
+					(at 15.24 7.62 180)
+					(length 5.08)
+					(name "SBU2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin passive line
-					(at 15.24 10.16 180)
+					(at 15.24 15.24 180)
 					(length 5.08)
 					(hide yes)
 					(name "VBUS"
@@ -3926,7 +3984,7 @@
 	)
 	(text "UCB-C"
 		(exclude_from_sim no)
-		(at 217.932 30.734 0)
+		(at 215.9 29.718 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -4095,6 +4153,10 @@
 		(uuid "e8c2da9d-495c-4782-a474-cdfe0a264e99")
 	)
 	(no_connect
+		(at 231.14 44.45)
+		(uuid "099bffac-401d-4046-b24c-a4fda0c4af62")
+	)
+	(no_connect
 		(at 162.56 105.41)
 		(uuid "2eb5cb92-5b47-44a9-8833-af115fa590f6")
 	)
@@ -4109,6 +4171,10 @@
 	(no_connect
 		(at 162.56 92.71)
 		(uuid "56217ba6-16e4-4431-be88-e7998d3dc53d")
+	)
+	(no_connect
+		(at 231.14 46.99)
+		(uuid "6181d65f-d337-420d-9f76-586cd57e1388")
 	)
 	(no_connect
 		(at 162.56 77.47)
@@ -4146,6 +4212,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 38.1) (xy 227.33 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03c062fc-6c83-4d9e-9362-acba052f8d81")
+	)
+	(wire
+		(pts
 			(xy 127 72.39) (xy 132.08 72.39)
 		)
 		(stroke
@@ -4173,16 +4249,6 @@
 			(type default)
 		)
 		(uuid "0bbf7a51-0adc-4a71-92b2-6ff32dc22a9c")
-	)
-	(wire
-		(pts
-			(xy 228.6 44.45) (xy 228.6 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c069884-c9b9-4c7d-9786-7e0737fa0a79")
 	)
 	(wire
 		(pts
@@ -4253,6 +4319,16 @@
 			(type default)
 		)
 		(uuid "169baa04-dc4f-42cd-9b49-1688f3c1b356")
+	)
+	(wire
+		(pts
+			(xy 227.33 39.37) (xy 231.14 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1adcd79c-4d12-4ad8-801e-ea436fcba772")
 	)
 	(wire
 		(pts
@@ -4446,16 +4522,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 80.01) (xy 248.92 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45240513-880e-4cab-8b93-4f9fd6c96248")
-	)
-	(wire
-		(pts
 			(xy 209.55 120.65) (xy 209.55 121.92)
 		)
 		(stroke
@@ -4463,16 +4529,6 @@
 			(type default)
 		)
 		(uuid "4885e2e0-8dee-4721-9fda-0a163c5e28a2")
-	)
-	(wire
-		(pts
-			(xy 228.6 46.99) (xy 231.14 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49896c02-a2ba-419d-8137-b08b70dcf33e")
 	)
 	(wire
 		(pts
@@ -4576,7 +4632,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 80.01) (xy 243.84 81.28)
+			(xy 243.84 77.47) (xy 243.84 81.28)
 		)
 		(stroke
 			(width 0)
@@ -4933,6 +4989,16 @@
 			(type default)
 		)
 		(uuid "9fb7090d-6399-4192-80ba-3b9834816514")
+	)
+	(wire
+		(pts
+			(xy 248.92 77.47) (xy 248.92 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0713c0b-7124-46d5-8c79-314a16107da2")
 	)
 	(wire
 		(pts
@@ -6539,125 +6605,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")
-		(at 246.38 57.15 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "156ea56c-8e22-41f0-8e43-209c8585234f")
-		(property "Reference" "J3"
-			(at 246.38 34.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "USB_C_Receptacle_USB2.0_14P"
-			(at 246.38 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 242.57 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 242.57 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
-			(at 246.38 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "B5"
-			(uuid "6c041a94-5ab2-4e6f-952b-15be38e19b92")
-		)
-		(pin "B9"
-			(uuid "a0c55237-305d-42dc-abd1-68b6d3b51d12")
-		)
-		(pin "A6"
-			(uuid "a3496477-e2e8-41e5-bb08-996abe96f761")
-		)
-		(pin "A1"
-			(uuid "e4193935-1aff-48a6-8178-f676bddaf30e")
-		)
-		(pin "A4"
-			(uuid "1234af39-ef88-4fc9-a68c-14048b6326e5")
-		)
-		(pin "A5"
-			(uuid "c445b825-4bb2-498d-9503-214b150922f3")
-		)
-		(pin "A12"
-			(uuid "a8a61cb8-ab3b-428b-a01f-40480f702960")
-		)
-		(pin "A9"
-			(uuid "49f9d648-96fc-48bd-9118-baf3c5fac0ce")
-		)
-		(pin "B7"
-			(uuid "7c81d8dd-52b4-4908-9da2-1ebdb50e9a0b")
-		)
-		(pin "SH"
-			(uuid "af4b738d-2f09-49fa-9cbc-713f4c21ff0c")
-		)
-		(pin "B12"
-			(uuid "1a59feb7-0b4f-4976-8de7-ec8d1eead4a6")
-		)
-		(pin "B1"
-			(uuid "b2b26c1c-4132-4b2f-8998-f33867d23a58")
-		)
-		(pin "B4"
-			(uuid "9ef76b25-d70d-4c47-ab5d-bab4f2aa9fa4")
-		)
-		(pin "B6"
-			(uuid "96ba4b98-9ca5-4666-b354-22c500928231")
-		)
-		(pin "A7"
-			(uuid "aaa1d525-dea7-470a-8769-6ed478ac4664")
-		)
-		(instances
-			(project "ESP32-S3-DevBoard"
-				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 243.84 125.73 0)
 		(unit 1)
@@ -7978,7 +7925,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 228.6 44.45 0)
+		(at 227.33 38.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7986,10 +7933,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7d303a7f-f11e-4325-85a2-2feef3549aa5")
 		(property "Reference" "#PWR05"
-			(at 228.6 48.26 0)
+			(at 227.33 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8000,7 +7946,7 @@
 			)
 		)
 		(property "Value" "VBUS"
-			(at 228.6 39.37 0)
+			(at 227.33 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8010,7 +7956,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 44.45 0)
+			(at 227.33 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8021,7 +7967,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 44.45 0)
+			(at 227.33 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8032,7 +7978,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 228.6 44.45 0)
+			(at 227.33 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9169,6 +9115,131 @@
 			(project "ESP32-S3-DevBoard"
 				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
+		(at 246.38 54.61 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "eca05b8c-0c80-4279-b6f3-b48c46d49219")
+		(property "Reference" "J4"
+			(at 246.38 31.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USB_C_Receptacle_USB2.0_16P"
+			(at 246.38 34.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
+			(at 242.57 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(at 242.57 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 246.38 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "B1"
+			(uuid "1ecab73e-9643-41c5-a17a-478623c3d9ae")
+		)
+		(pin "A8"
+			(uuid "96f8e024-9aff-4ed9-b1ab-f0759d9a9e1c")
+		)
+		(pin "A7"
+			(uuid "e3e66f30-6198-4163-8c95-104a874542db")
+		)
+		(pin "A6"
+			(uuid "ee6bcf9f-99cc-43f0-b1ff-66e348438acc")
+		)
+		(pin "A5"
+			(uuid "691156e8-a8ec-48b5-9946-c5c757910f21")
+		)
+		(pin "A9"
+			(uuid "c6585ea9-e39d-4d4e-bd9e-b30a0c244db6")
+		)
+		(pin "SH"
+			(uuid "092dba9a-fc02-4176-b698-38924f4c216d")
+		)
+		(pin "A12"
+			(uuid "4d1542a2-9b76-4b95-bb9c-36efdfd069cf")
+		)
+		(pin "B4"
+			(uuid "fdc2e579-fe09-4180-8c6d-eb1e4c710557")
+		)
+		(pin "B5"
+			(uuid "8d9c798d-0f92-4094-af89-d360f3b9127b")
+		)
+		(pin "B6"
+			(uuid "7254f65a-4d8c-46b5-bc2c-b069e1b22479")
+		)
+		(pin "B7"
+			(uuid "081d70a3-c2b2-4690-8d3d-1f8561520355")
+		)
+		(pin "B8"
+			(uuid "7a737892-9691-4a37-b279-8124a49fd107")
+		)
+		(pin "B9"
+			(uuid "3cba1077-0b23-44a9-9e8a-07fb4716281a")
+		)
+		(pin "B12"
+			(uuid "0dc793b5-1afa-46e4-9bb1-cb6247a94966")
+		)
+		(pin "A1"
+			(uuid "4ab48e7e-add8-4bfa-80b1-8fd6d8b53ca2")
+		)
+		(pin "A4"
+			(uuid "3cd67815-0e06-4fb7-b926-435c1b93df99")
+		)
+		(instances
+			(project "ESP32-S3-DevBoard"
+				(path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
+					(reference "J4")
 					(unit 1)
 				)
 			)

@@ -6195,6 +6195,17 @@
 				)
 			)
 		)
+		(property "Mfr Part #" ""
+			(at 57.15 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "756e3adb-8e69-443b-a62a-32ab5863ff36")
 		)
@@ -6305,6 +6316,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x15, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 67.31 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" ""
 			(at 67.31 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6670,6 +6692,17 @@
 				)
 			)
 		)
+		(property "Mfr Part #" ""
+			(at 243.84 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d7dd5627-3642-47dc-a987-e29d08a10648")
 		)
@@ -6821,6 +6854,17 @@
 		)
 		(property "Description" "RF Module, ESP32-S3 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.3V, SMD, onboard antenna"
 			(at 147.32 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" ""
+			(at 147.32 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7101,6 +7145,17 @@
 				)
 			)
 		)
+		(property "Mfr Part #" ""
+			(at 78.74 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "77aa2615-8217-4957-8108-87e5a163d41b")
 		)
@@ -7252,6 +7307,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 219.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" ""
 			(at 219.71 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -7498,6 +7564,17 @@
 				)
 			)
 		)
+		(property "Mfr Part #" ""
+			(at 138.43 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ccc6ec2c-b782-4658-8bd9-4afabdd55eae")
 		)
@@ -7648,6 +7725,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 137.16 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" ""
 			(at 137.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7826,6 +7914,17 @@
 				)
 			)
 		)
+		(property "Mfr Part #" ""
+			(at 138.43 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7c800e3a-5d8e-4aa4-9c55-97c04cbd351a")
 		)
@@ -7898,6 +7997,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 127 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" ""
 			(at 127 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8145,6 +8255,17 @@
 				)
 			)
 		)
+		(property "Mfr Part #" ""
+			(at 228.6 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "52ff2ec8-2eac-4088-a0a3-d4fdf3ff60de")
 		)
@@ -8380,6 +8501,17 @@
 				)
 			)
 		)
+		(property "Mfr Part #" ""
+			(at 233.68 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "6d9c9bd8-9a3f-4cb7-915e-5540ee2e773a")
 		)
@@ -8455,6 +8587,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 78.74 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" ""
 			(at 78.74 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -8602,7 +8745,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-ck-tactile-pts810-series-datasheet?assetguid=f1e4bc97-66e9-4beb-99c6-eaef0bd3bff4"
 			(at 43.18 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -8614,6 +8757,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 43.18 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" "PTS810SJM250SMTR LFS"
 			(at 43.18 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -8696,6 +8850,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 209.55 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" ""
 			(at 209.55 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8945,6 +9110,17 @@
 				)
 			)
 		)
+		(property "Mfr Part #" ""
+			(at 219.71 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7a9eeb7b-c6cb-4701-b833-68cc9df9ee12")
 		)
@@ -9105,6 +9281,17 @@
 				)
 			)
 		)
+		(property "Mfr Part #" ""
+			(at 255.27 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a739eaf8-7b4c-4c59-883f-5fe18265e0b7")
 		)
@@ -9175,6 +9362,17 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 246.38 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" ""
 			(at 246.38 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -9367,7 +9565,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-ck-tactile-pts810-series-datasheet?assetguid=f1e4bc97-66e9-4beb-99c6-eaef0bd3bff4"
 			(at 71.12 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -9379,6 +9577,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 71.12 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr Part #" "PTS810SJM250SMTR LFS"
 			(at 71.12 142.24 0)
 			(hide yes)
 			(show_name no)

@@ -653,6 +653,12 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mfr Part #",
+          "name": "Mfr Part #",
+          "show": true
         }
       ],
       "filter_string": "",

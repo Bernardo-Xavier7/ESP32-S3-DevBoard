@@ -659,6 +659,18 @@
           "label": "Mfr Part #",
           "name": "Mfr Part #",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Mouser URL",
+          "name": "Mouser URL",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Digikey URL",
+          "name": "Digikey URL",
+          "show": true
         }
       ],
       "filter_string": "",

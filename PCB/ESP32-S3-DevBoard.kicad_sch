@@ -6151,7 +6151,7 @@
 				)
 			)
 		)
-		(property "Value" "Analog"
+		(property "Value" "15 Pos"
 			(at 57.15 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -6173,7 +6173,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/3/6118/1/ssk01_mph_254.pdf"
 			(at 57.15 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6195,7 +6195,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "SSK01-MPH-254-A15"
+			(at 57.15 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/SSK01-MPH-254-A15/28772157?s=N4IgTCBcDaIMpwNIAYCMBaAsgBQBLrAFYAWdAQVUJAF0BfIA"
+			(at 57.15 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/Same-Sky/SSK01-MPH-254-A15?qs=sGAEpiMZZMvlX3nhDDO4APFINohcSeBYQSrTWI5UcoI%3D"
 			(at 57.15 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6282,7 +6304,7 @@
 				)
 			)
 		)
-		(property "Value" "Digital"
+		(property "Value" "15 Pos"
 			(at 67.31 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -6304,7 +6326,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/3/6118/1/ssk01_mph_254.pdf"
 			(at 67.31 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6326,7 +6348,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "SSK01-MPH-254-A15"
+			(at 67.31 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" "https://www.digikey.pt/pt/products/detail/same-sky-formerly-cui-devices/SSK01-MPH-254-A15/28772157?s=N4IgTCBcDaIMpwNIAYCMBaAsgBQBLrAFYAWdAQVUJAF0BfIA"
+			(at 67.31 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/Same-Sky/SSK01-MPH-254-A15?qs=sGAEpiMZZMvlX3nhDDO4APFINohcSeBYQSrTWI5UcoI%3D"
 			(at 67.31 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6692,7 +6736,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "CC0603ZRY5V7BB104"
+			(at 243.84 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 243.84 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/YAGEO/CC0603ZRY5V7BB104?qs=sGAEpiMZZMvsSlwiRhF8qsQT4vDixbP61y1EmCm4vlM%3D"
 			(at 243.84 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -6863,7 +6929,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "ESP32-S3-MINI-1-N8"
+			(at 147.32 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" "https://www.digikey.pt/pt/products/detail/espressif-systems/ESP32-S3-MINI-1-N8/15295890?s=N4IgTCBcDaIKIGUAKBmMBaBL0FkCSAcnugIzoEAcIAugL5A"
+			(at 147.32 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/Espressif-Systems/ESP32-S3-MINI-1-N8?qs=XAiT9M5g4x82rl6F%2FIYUQg%3D%3D"
 			(at 147.32 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -7145,7 +7233,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "CRCW060310K0JNEBC"
+			(at 78.74 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 78.74 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/Vishay/CRCW060310K0JNEBC?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4LzZD00Xv0VRD7hT10WF0aJ8Q%3D%3D"
 			(at 78.74 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -7317,7 +7427,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "AC0603DR-075K1L"
+			(at 219.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 219.71 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/YAGEO/AC0603DR-075K1L?qs=fTsMJN6MUUuGibmKEEUTpQ%3D%3D"
 			(at 219.71 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -7564,7 +7696,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "VLMTG1400-GS08"
+			(at 138.43 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 138.43 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/Vishay-Semiconductors/VLMTG1400-GS08?qs=sGAEpiMZZMsl8UZd3ZuU6aAY3C3HMTrK5kQO%252Ba%252B7lY7WCtQ7rJfP6A%3D%3D"
 			(at 138.43 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -7735,7 +7889,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "CC0603ZRY5V7BB104"
+			(at 137.16 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 137.16 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/YAGEO/CC0603ZRY5V7BB104?qs=sGAEpiMZZMvsSlwiRhF8qsQT4vDixbP61y1EmCm4vlM%3D"
 			(at 137.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7914,7 +8090,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "RCA0603100RFKEASR"
+			(at 138.43 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 138.43 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/Vishay/RCA0603100RFKEASR?qs=sGAEpiMZZMvdGkrng054twszbajJBv1KThavpVbwy8bufHVPyS92jw%3D%3D"
 			(at 138.43 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -8007,7 +8205,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "EMK107BBJ106MA-T"
+			(at 127 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 127 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/TAIYO-YUDEN/EMK107BBJ106MA-T?qs=sGAEpiMZZMvsSlwiRhF8qjkrstv89Nzzv0E62rRqrwI%3D"
 			(at 127 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8255,7 +8475,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "AC0603DR-075K1L"
+			(at 228.6 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 228.6 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/YAGEO/AC0603DR-075K1L?qs=fTsMJN6MUUuGibmKEEUTpQ%3D%3D"
 			(at 228.6 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -8501,7 +8743,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "AMS1117-3.3"
+			(at 233.68 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" "https://eu.mouser.com/en/ProductDetail/Texas-Instruments/LM1117MPX-3.3-NOPB?qs=X1J7HmVL2ZHRbBIxXi4utg%3D%3Dhttps://www.digikey.pt/pt/products/detail/evvo/AMS1117-3-3/22482148?s=N4IgTCBcDaIIIFkDKBGNB2AtAZgHTZAF0BfIA"
+			(at 233.68 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/Texas-Instruments/LM1117MPX-3.3-NOPB?qs=X1J7HmVL2ZHRbBIxXi4utg%3D%3D"
 			(at 233.68 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8597,7 +8861,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "CC0603ZRY5V7BB104"
+			(at 78.74 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 78.74 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/YAGEO/CC0603ZRY5V7BB104?qs=sGAEpiMZZMvsSlwiRhF8qsQT4vDixbP61y1EmCm4vlM%3D"
 			(at 78.74 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -8778,6 +9064,28 @@
 				)
 			)
 		)
+		(property "Digikey URL" "https://www.digikey.com/en/products/detail/c-k/PTS810SJM250SMTR-LFS/4176610"
+			(at 43.18 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/CK/PTS810SJM250SMTR-LFS?qs=Imq1NPwxi75Vg1coPafm8w%3D%3D&utm_id=24220444735&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=24220444735&gbraid=0AAAAADn_wf2o5_lXrbaIycJdTR7CUOTdz&gclid=CjwKCAiAzp_YBhAJEiwASf8kHcjYbnzy_sF7xBnRQ9Ka9cAatOV-JOD-bhPK5zoA5M3tMWj-VbTlYhoCX-gQAvD_BwE"
+			(at 43.18 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0391a6af-c52e-4874-9133-2237f7188226")
 		)
@@ -8860,7 +9168,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "EMK107BBJ106MA-T"
+			(at 209.55 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 209.55 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/TAIYO-YUDEN/EMK107BBJ106MA-T?qs=sGAEpiMZZMvsSlwiRhF8qjkrstv89Nzzv0E62rRqrwI%3D"
 			(at 209.55 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9110,7 +9440,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "CC0603ZRY5V7BB104"
+			(at 219.71 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 219.71 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/YAGEO/CC0603ZRY5V7BB104?qs=sGAEpiMZZMvsSlwiRhF8qsQT4vDixbP61y1EmCm4vlM%3D"
 			(at 219.71 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9281,7 +9633,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "EMK107BBJ106MA-T"
+			(at 255.27 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" ""
+			(at 255.27 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/TAIYO-YUDEN/EMK107BBJ106MA-T?qs=sGAEpiMZZMvsSlwiRhF8qjkrstv89Nzzv0E62rRqrwI%3D"
 			(at 255.27 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -9372,7 +9746,29 @@
 				)
 			)
 		)
-		(property "Mfr Part #" ""
+		(property "Mfr Part #" "USB4106-GF-A"
+			(at 246.38 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" "https://www.digikey.pt/pt/products/detail/gct/USB4106-GF-A/29706912?s=N4IgTCBcDaIKoGUBCAWAjABgGwFoDiAYjgIIgC6AvkA"
+			(at 246.38 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/GCT/USB4106-GF-A?qs=dhCoiiGcT1Lg%2FOzRcXwHTw%3D%3D"
 			(at 246.38 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -9588,6 +9984,28 @@
 			)
 		)
 		(property "Mfr Part #" "PTS810SJM250SMTR LFS"
+			(at 71.12 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey URL" "https://www.digikey.com/en/products/detail/c-k/PTS810SJM250SMTR-LFS/4176610"
+			(at 71.12 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser URL" "https://eu.mouser.com/en/ProductDetail/CK/PTS810SJM250SMTR-LFS?qs=Imq1NPwxi75Vg1coPafm8w%3D%3D&utm_id=24220444735&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=24220444735&gbraid=0AAAAADn_wf2o5_lXrbaIycJdTR7CUOTdz&gclid=CjwKCAiAzp_YBhAJEiwASf8kHcjYbnzy_sF7xBnRQ9Ka9cAatOV-JOD-bhPK5zoA5M3tMWj-VbTlYhoCX-gQAvD_BwE"
 			(at 71.12 142.24 0)
 			(hide yes)
 			(show_name no)
